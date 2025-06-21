@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  scroll-behavior: smooth;
+}
+
+.hero-banner-bg {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Blue%20Gradient%20Banner-H2T8wST4DSzr4GtH9F8asc1qOjRd65.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.tab-active {
+  border-color: #0d9488; /* teal-600 */
+  color: #0d9488;
+  background-color: #f0fdfa; /* teal-50 */
+}
+
+.tab-inactive {
+  border-color: #e5e7eb; /* gray-200 */
+  color: #4b5563; /* gray-600 */
+}
+
+.swoosh-icon::after {
+  content: "✓";
+  color: #0d9488;
+  margin-right: 0.5rem;
+}
