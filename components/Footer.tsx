@@ -88,7 +88,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>Wilmington, NC</li>
-              <li>Licensed & Insured</li>
+              <li>Certified & Insured</li>
             </ul>
           </div>
         </div>

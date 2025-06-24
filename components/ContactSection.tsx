@@ -102,7 +102,7 @@ Message: ${formData.message}
               </a>
 
               <a
-                href="https://calendly.com/hawkinscleaningservices/consultation"
+                href="https://web.taskbird.com/booking-site/iframe/hawkins-cleaning-solutions"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center group"
@@ -123,7 +123,7 @@ Message: ${formData.message}
                 <div>
                   <p className="font-semibold">Service Area</p>
                   <p className="text-gray-300">
-                    Wilmington, Southport, Hampstead, Burgaw, Castle Hayne, NC | Licensed & Insured
+                    Wilmington, Southport, Hampstead, Burgaw, Castle Hayne, NC | Certified & Insured
                   </p>
                 </div>
               </div>

@@ -48,7 +48,7 @@ export default function FloatingCTA() {
             </Button>
             <Button asChild variant="outline" className="w-full justify-start">
               <a
-                href="https://calendly.com/hawkinscleaningservices/consultation"
+                href="https://web.taskbird.com/booking-site/iframe/hawkins-cleaning-solutions"
                 target="_blank"
                 rel="noopener noreferrer"
               >
